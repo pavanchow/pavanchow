@@ -58,9 +58,5 @@ Security researcher and penetration tester. I find and responsibly disclose vuln
 [![Email](https://img.shields.io/badge/Email-pavankumarpre-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarpre@gmail.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanchow&style=flat-square&color=58a6ff&label=Profile+Views" alt="views"/>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:58a6ff&height=100&section=footer" width="100%"/>
 </div>
