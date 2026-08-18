@@ -55,7 +55,7 @@ Security researcher and penetration tester. I find and responsibly disclose vuln
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pavanchow.gitlab.io-3fb950?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pavanchow.gitlab.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpavanchow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanchow/)
-[![Email](https://img.shields.io/badge/Email-pavankumarpre-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarpre@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Pavan-Nallamothu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavankumarpre@gmail.com)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanchow&style=flat-square&color=58a6ff&label=Profile+Views" alt="views"/>
