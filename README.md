@@ -30,14 +30,14 @@ Security researcher and penetration tester. I find and responsibly disclose vuln
 
 | CVE | Target | Class | Severity |
 | :-- | :-- | :-- | :-- |
-| `CVE-2026-43763` | Apple macOS (ATS) | Sandbox file-read | 🟠 Medium |
-| `CVE-2026-63013` | NSA skills-service | Privilege escalation | 🔴 High 8.8 |
-| `CVE-2026-63014` | NSA skills-service | Cross-project IDOR | 🟠 Medium |
-| `CVE-2026-63177` | CISA Malcolm | RBAC bypass | 🔴 High |
-| `CVE-2026-63134 / 63133` | CISA Malcolm | Path traversal, DoS | 🟠 Medium |
-| `CVE-2026-33234` | AutoGPT | SSRF via SMTP | 🟠 Medium |
-| `CVE-2026-50023` | yt-dlp | Dangerous file creation | 🔴 High 8.3 |
-| `CVE-2026-40585 to 40588` | BlueprintUE | Account-takeover chain | 🔴 High |
+| [`CVE-2026-43763`](https://support.apple.com/en-us/128072) | Apple macOS (ATS) | Sandbox file-read | 🟠 Medium |
+| [`CVE-2026-63013`](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-67x3-r85f-822r) | NSA skills-service | Privilege escalation | 🔴 High 8.8 |
+| [`CVE-2026-63014`](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-p527-vjfp-c43p) | NSA skills-service | Cross-project IDOR | 🟠 Medium |
+| [`CVE-2026-63177`](https://github.com/cisagov/Malcolm/security/advisories/GHSA-m5fr-rv3h-xg2r) | CISA Malcolm | RBAC bypass | 🔴 High |
+| [`CVE-2026-63134`](https://github.com/cisagov/Malcolm/security/advisories/GHSA-65mm-vgrw-vqx4) / [`63133`](https://github.com/cisagov/Malcolm/security/advisories/GHSA-c35g-mgc3-95rx) | CISA Malcolm | Path traversal, DoS | 🟠 Medium |
+| [`CVE-2026-33234`](https://github.com/Significant-Gravitas/AutoGPT/security/advisories/GHSA-4jwj-6mg5-wrwf) | AutoGPT | SSRF via SMTP | 🟠 Medium |
+| [`CVE-2026-50023`](https://github.com/yt-dlp/yt-dlp/security/advisories/GHSA-c6mh-fpjc-4pr3) | yt-dlp | Dangerous file creation | 🔴 High 8.3 |
+| [`CVE-2026-40585 to 40588`](https://github.com/blueprintue/blueprintue-self-hosted-edition/security/advisories) | BlueprintUE | Account-takeover chain | 🔴 High |
 
 ## 🧰 Toolbox
 
