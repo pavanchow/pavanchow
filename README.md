@@ -39,6 +39,19 @@ Security researcher and penetration tester. I find and responsibly disclose vuln
 | [`CVE-2026-50023`](https://github.com/yt-dlp/yt-dlp/security/advisories/GHSA-c6mh-fpjc-4pr3) | yt-dlp | Dangerous file creation | 🔴 High 8.3 |
 | [`CVE-2026-40585 to 40588`](https://github.com/blueprintue/blueprintue-self-hosted-edition/security/advisories) | BlueprintUE | Account-takeover chain | 🔴 High |
 
+## 🛠️ Open-source builds
+
+Systems tools written from scratch, each its own repo with a live page. Full set at **[pavanchow.github.io](https://pavanchow.github.io/#projects)**.
+
+| Build | What it is |
+| :-- | :-- |
+| [Oracle](https://github.com/pavanchow/oracle) | A query language whose result is an attack path across identity and network graphs |
+| [Lint-Owl](https://github.com/pavanchow/lint-owl) | A static analyzer that returns the data-flow path from source to sink |
+| [Unweave](https://github.com/pavanchow/unweave) | An EVM bytecode disassembler that reconstructs intent and flags dangerous opcodes |
+| [Cipherlock](https://github.com/pavanchow/cipherlock) | From-scratch ChaCha20-Poly1305 AEAD, proven against the RFC 8439 vectors |
+| [Timelace](https://github.com/pavanchow/timelace) | A content-addressed version-control core, the git idea made readable |
+| [Trailhead](https://github.com/pavanchow/trailhead) | A full-text search engine with an inverted index and TF-IDF ranking |
+
 ## 🧰 Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
