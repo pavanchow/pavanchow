@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:3fb950&height=200&section=header&text=Pavan%20Nallamothu&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Security%20Researcher%20%C2%B7%20Penetration%20Tester%20%C2%B7%20CVE%20Hunter&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Pavan Nallamothu"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:3fb950&height=200&section=header&text=Pavan%20Nallamothu&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Security%20Researcher%20%C2%B7%20Penetration%20Tester&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Pavan Nallamothu"/>
 </div>
 
 <div align="center">
   <a href="https://pavanchow.gitlab.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=12+published+CVEs+%C2%B7+Apple+%C2%B7+CISA+%C2%B7+NSA;SSRF+%C2%B7+IDOR+%C2%B7+Auth+Bypass+%C2%B7+Path+Traversal;Bug+bounty+hunter+%C2%B7+HackerOne+%C2%B7+Bugcrowd+%C2%B7+Meta" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=12+published+CVEs+%C2%B7+Apple+%C2%B7+CISA+%C2%B7+NSA;SSRF+%C2%B7+IDOR+%C2%B7+Auth+Bypass+%C2%B7+Path+Traversal;Active+on+HackerOne+%C2%B7+Bugcrowd+%C2%B7+Meta" alt="typing"/>
   </a>
 </div>
 
