@@ -11,9 +11,9 @@
 <div align="center">
 
 [![CVEs](https://img.shields.io/badge/CVEs-12%20Published-58a6ff?style=for-the-badge)](https://www.cve.org)
-![Apple](https://img.shields.io/badge/Credited-Apple-111111?style=for-the-badge&logo=apple&logoColor=white)
-![CISA](https://img.shields.io/badge/Credited-CISA-005288?style=for-the-badge)
-![NSA](https://img.shields.io/badge/Credited-NSA-1f3864?style=for-the-badge)
+[![Apple](https://img.shields.io/badge/Credited-Apple-111111?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-us/128072)
+[![CISA](https://img.shields.io/badge/Credited-CISA-005288?style=for-the-badge)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-01)
+[![NSA](https://img.shields.io/badge/Credited-NSA-1f3864?style=for-the-badge)](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-67x3-r85f-822r)
 
 </div>
 
