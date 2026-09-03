@@ -21,8 +21,10 @@
 
 Security researcher and penetration tester. I find and responsibly disclose vulnerabilities in commercial and open-source software. M.S. Cybersecurity, and CTF web-challenge author at the **ISC2 New Jersey Chapter**.
 
+Two places to go deeper: [Pavan Nallamothu's vulnerability research and coordinated-disclosure record](https://pavanchow.gitlab.io) and [the offensive security tooling and exploit lab](https://pavanchow.github.io).
+
 - 🛡️ **12 published CVEs** (MITRE), credited by **Apple**, **CISA**, and the **NSA**
-- 🎯 Bug bounty on HackerOne, Bugcrowd, Google VRP, Apple Security Bounty, and Meta
+- 🎯 Active on HackerOne, Bugcrowd, Google VRP, Apple Security Bounty, and Meta
 - 🔎 Focus areas: SSRF, broken access control, IDOR, path traversal, source-code auditing
 - 📍 Jersey City, NJ
 
