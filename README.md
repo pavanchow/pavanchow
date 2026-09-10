@@ -48,6 +48,7 @@ Two places to go deeper: [Pavan Nallamothu's vulnerability research and coordina
 | SSRF Beyond HTTP: Egress-Path-Incomplete Guards in AI Agent Platforms | Zenodo | [doi:10.5281/zenodo.22075469](https://doi.org/10.5281/zenodo.22075469) |
 | Trusting the Filename: File-Write Attacks from Untrusted Archive and Download Metadata | Zenodo · Preprints.org | [doi:10.5281/zenodo.22075439](https://doi.org/10.5281/zenodo.22075439) |
 | Dominating the Deputy: Toward Positional Permission Completeness in Agentic Workflows | Preprints.org | Under review · DOI on approval |
+| Composable Seeding of ML-KEM from Certified Bell Randomness in the QROM | IACR ePrint | Under review · link on approval |
 
 ## 🛠️ Open-source builds
 
