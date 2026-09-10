@@ -41,6 +41,14 @@ Two places to go deeper: [Pavan Nallamothu's vulnerability research and coordina
 | [`CVE-2026-50023`](https://github.com/yt-dlp/yt-dlp/security/advisories/GHSA-c6mh-fpjc-4pr3) | yt-dlp | Dangerous file creation | 🔴 High 8.3 |
 | [`CVE-2026-40585 to 40588`](https://github.com/blueprintue/blueprintue-self-hosted-edition/security/advisories) | BlueprintUE | Account-takeover chain | 🔴 High |
 
+## 📄 Publications
+
+| Paper | Venue | Link |
+| :-- | :-- | :-- |
+| SSRF Beyond HTTP: Egress-Path-Incomplete Guards in AI Agent Platforms | Zenodo | [doi:10.5281/zenodo.22075469](https://doi.org/10.5281/zenodo.22075469) |
+| Trusting the Filename: File-Write Attacks from Untrusted Archive and Download Metadata | Zenodo · Preprints.org | [doi:10.5281/zenodo.22075439](https://doi.org/10.5281/zenodo.22075439) |
+| Dominating the Deputy: Toward Positional Permission Completeness in Agentic Workflows | Preprints.org | Under review · DOI on approval |
+
 ## 🛠️ Open-source builds
 
 Systems tools written from scratch, each its own repo with a live page. Full set at **[pavanchow.github.io](https://pavanchow.github.io/#projects)**.
