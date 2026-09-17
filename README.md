@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://pavanchow.gitlab.io">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=12+published+CVEs+%C2%B7+Apple+%C2%B7+CISA+%C2%B7+NSA;SSRF+%C2%B7+IDOR+%C2%B7+Auth+Bypass+%C2%B7+Path+Traversal;Active+on+HackerOne+%C2%B7+Bugcrowd+%C2%B7+Meta" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=700&color=58A6FF&center=true&vCenter=true&width=780&lines=14+published+CVEs+%C2%B7+Apple+%C2%B7+CISA+%C2%B7+NSA+%C2%B7+NASA;SSRF+%C2%B7+IDOR+%C2%B7+Auth+Bypass+%C2%B7+Path+Traversal;Active+on+HackerOne+%C2%B7+Bugcrowd+%C2%B7+Meta" alt="typing"/>
   </a>
 </div>
 
 <div align="center">
 
-[![CVEs](https://img.shields.io/badge/CVEs-12%20Published-58a6ff?style=for-the-badge)](https://www.cve.org)
+[![CVEs](https://img.shields.io/badge/CVEs-14%20Published-58a6ff?style=for-the-badge)](https://www.cve.org)
 [![Apple](https://img.shields.io/badge/Credited-Apple-111111?style=for-the-badge&logo=apple&logoColor=white)](https://support.apple.com/en-us/128072)
 [![CISA](https://img.shields.io/badge/Credited-CISA-005288?style=for-the-badge)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-230-01)
 [![NSA](https://img.shields.io/badge/Credited-NSA-1f3864?style=for-the-badge)](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-67x3-r85f-822r)
@@ -33,6 +33,7 @@ Two places to go deeper: [Pavan Nallamothu's vulnerability research and coordina
 | CVE | Target | Class | Severity |
 | :-- | :-- | :-- | :-- |
 | [`CVE-2026-43763`](https://support.apple.com/en-us/128072) | Apple macOS (ATS) | Sandbox file-read | 🟠 Medium |
+| [`CVE-2026-65412`](https://support.apple.com/en-us/149034) | Apple (CoreText) | Web-content memory safety | 🟠 Medium |
 | [`CVE-2026-63013`](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-67x3-r85f-822r) | NSA skills-service | Privilege escalation | 🔴 High 8.8 |
 | [`CVE-2026-63014`](https://github.com/NationalSecurityAgency/skills-service/security/advisories/GHSA-p527-vjfp-c43p) | NSA skills-service | Cross-project IDOR | 🟠 Medium |
 | [`CVE-2026-63177`](https://github.com/cisagov/Malcolm/security/advisories/GHSA-m5fr-rv3h-xg2r) | CISA Malcolm | RBAC bypass | 🔴 High |
