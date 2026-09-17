@@ -23,7 +23,7 @@ Security researcher and penetration tester. I find and responsibly disclose vuln
 
 Two places to go deeper: [Pavan Nallamothu's vulnerability research and coordinated-disclosure record](https://pavanchow.gitlab.io) and [the offensive security tooling and exploit lab](https://pavanchow.github.io).
 
-- 🛡️ **12 published CVEs** (MITRE), credited by **Apple**, **CISA**, and the **NSA**
+- 🛡️ **14 published CVEs** (MITRE), credited by **Apple**, **CISA**, the **NSA**, and **NASA**
 - 🎯 Active on HackerOne, Bugcrowd, Google VRP, Apple Security Bounty, and Meta
 - 🔎 Focus areas: SSRF, broken access control, IDOR, path traversal, source-code auditing
 - 📍 Jersey City, NJ
